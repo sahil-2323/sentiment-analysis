@@ -24,3 +24,6 @@ The model is trained on a real-world Twitter dataset containing tweet text and s
 - NLP Techniques: Tokenization, Stopword Removal, Lemmatization  
 - Model: Logistic Regression  
 - Deployment: Streamlit  
+
+### Live:
+https://jkcwytzy7rp5yyzwwtogzu.streamlit.app/
